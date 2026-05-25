@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productpave",
+        "uuid": 660009,
+        "checksum": "pno6io"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
